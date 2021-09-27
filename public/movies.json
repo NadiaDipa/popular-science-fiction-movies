@@ -1,0 +1,82 @@
+[{
+    "name": "Untraceable",
+    "id": "1",
+    "cast": "Diane Lane, Billy Burke, Colin Hanks, Joseph Cross, Mary Beth Hurt",
+    "director": "Gregory Hoblit",
+    "IMBDRating": "6.2/10",
+    "releaseDate": "25 January 2008",
+    "boxOffice": 5.27,
+    "img": "https://images.moviesanywhere.com/ce2f2f7b4c87996076f1bbf278ce7c11/b29610eb-507a-41ce-88f4-8e3f7f1cc220.jpg"
+}, {
+    "name": "Hackers",
+    "id": "2",
+    "cast": "Jonny Lee Miller, Angelina Jolie, Fisher Stevens, Lorraine Bracco",
+    "director": "Iain Softley",
+    "IMBDRating": "6.3/10",
+    "releaseDate": "15 September 1995",
+    "boxOffice": 75,
+    "img": "https://cdn.cinematerial.com/p/297x/saee1lfu/hacker-movie-poster-md.jpg?v=1467837787"
+}, {
+    "name": "Sneakers",
+    "id": "3",
+    "cast": "Robert Redford, Dan Aykroyd, Ben Kingsley, Mary McDonnell, River Phoenix",
+    "director": "Phil Alden Robinson",
+    "IMBDRating": "7.1/10",
+    "releaseDate": "01 Jan 1992",
+    "boxOffice": 10.52 ,
+    "img": "https://content1.jdmagicbox.com/comp/jd_social/news/2018jul23/image-125468-tdxg780clc.jpg?fit=around|210:308&crop=210:308;*,*"
+}, {
+    "name": "The Matrix",
+    "id": "4",
+    "cast": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Joe Pantoliano",
+    "director": "The Wachowskis",
+    "IMBDRating": "8.7/10",
+    "releaseDate": "31 March 1999",
+    "boxOffice": 465.3,
+    "img": "https://m.media-amazon.com/images/I/71PfZFFz9yL._AC_SS450_.jpg"
+}, {
+    "name": "Source Code",
+    "id": "5",
+    "cast": "Jake Gyllenhaal, Michelle Monaghan, Vera Farmiga, Jeffrey Wright",
+    "director": "Duncan Jones",
+    "IMBDRating": "7.5/10",
+    "releaseDate": "1 April 2011",
+    "boxOffice": 14.73,
+    "img": "https://xl.movieposterdb.com/11_03/2011/945513/xl_945513_f7ef93b1.jpg"
+}, {
+    "name": "War Games",
+    "id": "6",
+    "cast": "Matthew Broderick, Dabney Coleman, John Wood, Ally Sheedy",
+    "director": "John Badham",
+    "IMBDRating": "7.1/10",
+    "releaseDate": "3 June 1983",
+    "boxOffice": 7.96,
+    "img": "https://m.media-amazon.com/images/M/MV5BMTM5NTExMTk1Nl5BMl5BanBnXkFtZTcwOTAxNDc3NA@@._V1_.jpg"
+}, {
+    "name": "The Imitation Game",
+    "id": "7",
+    "cast": "Benedict Cumberbatch, Keira Knightley, Matthew Goode, Rory Kinnear, Charles Dance", 
+    "director": "Morten Tyldum",
+    "IMBDRating": "8/10",
+    "releaseDate": "28 November 2014",
+    "boxOffice": 23.36,
+    "img": "https://i.pinimg.com/736x/4a/97/20/4a9720ea8dd18ff949536eef0c5695f7.jpg"
+}, {
+    "name": "Who Am I: No System is Safe",
+    "id": "8",
+    "cast": "Tom Schilling, Elyas M’Barek, Wotan Wilke Möhring",
+    "director": "Baran bo Odar",
+    "IMBDRating": "7.6/10",
+    "releaseDate": "25 September 2014",
+    "boxOffice": 0.77,
+    "img": "https://cdn3.movieweb.com/i/movie/VKrv0jYcoUef18JsoYRT4UUc2O3G5G/384:50/Who-Am-I-No-System-Is.jpg"
+}, {
+    "name": "Antitrust",
+    "id": "9",
+    "cast": "Ryan Phillippe, Tim Robbins, Rachael Leigh Cook, Claire Forlani",
+    "director": "Peter Howitt",
+    "IMBDRating": "6.1/10",
+    "releaseDate": "12 January 2001",
+    "boxOffice": 1.82,
+    "img": "https://media-cache.cinematerial.com/p/500x/isodxx42/antitrust-french-dvd-movie-cover.jpg?v=1456582814"
+}]

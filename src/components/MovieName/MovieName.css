@@ -1,0 +1,38 @@
+.image-item {
+    align-items: center;
+    height: 360px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.moviename {
+    background-color: rgb(212, 212, 195);
+    padding: 20px;
+    font-weight: 400;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+.moviename p {
+    font-weight: 400;
+    font-size: 20px;
+    font-stretch: expanded;
+}
+
+.btn {
+    background-color: slategrey;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: bold;
+    display: block;
+    margin: 0 auto;
+   
+}
+
+.btn:hover{
+    background-color: black;
+    color: whitesmoke;
+    
+}
+

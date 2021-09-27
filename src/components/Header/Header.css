@@ -1,0 +1,10 @@
+.header{
+    text-align: center;
+    color: wheat;
+    background-color: rgb(63, 62, 62);
+    padding: 10px 10px;
+}
+.header h1{
+    font-weight: 700;
+    font-size: 40px;
+}

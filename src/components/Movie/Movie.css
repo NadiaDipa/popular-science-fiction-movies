@@ -1,0 +1,17 @@
+.movie-container {
+    margin: 15px 15px;
+    display: grid;
+    grid-template-columns: 3fr .75fr;
+    border-radius: 30px;
+}
+.product-container {
+    grid-row-gap: 30px;
+    grid-column-gap: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+ 
+    
+}
+.cart-container{
+    padding-left: 10px
+}
