@@ -35,9 +35,9 @@ const Movie = () => {
                 </div>
                 <div className = "cart-container" >
                     <h4>Movies Item:{cart.length}</h4>
-                    <h4>Total movies budget:$ {total}</h4>
+                    <h4 className="mb-4 ">Total budget:$ {total.toFixed(2)}</h4>
                     {
-                        cart.map(movie => <p>{movie.name}</p>)
+                        cart.map(movie => <h4 className="movie-name-card">{movie.name}</h4>)
                     }
                 </div>
             </div>

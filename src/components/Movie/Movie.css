@@ -15,3 +15,12 @@
 .cart-container{
     padding-left: 10px
 }
+
+.movie-name-card{
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px 20px;
+    background-color: rgb(212, 212, 195);
+    color: black;
+    font-weight: bold;
+}
