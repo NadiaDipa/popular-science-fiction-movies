@@ -1,9 +1,9 @@
-
 .image-item {
     align-items: center;
     height: 250px;
     width: 300px;
     border-radius: 10px;
+    object-fit: cover;
 }
 
 .moviename {
@@ -32,12 +32,11 @@
     display: block;
     margin: 0 auto;
     margin-top: 5px;
-   
+
 }
 
-.btn:hover{
+.btn:hover {
     background-color: black;
     color: whitesmoke;
-    
-}
 
+}
