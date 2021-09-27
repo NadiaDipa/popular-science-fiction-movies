@@ -19,7 +19,7 @@ const MovieName = (props) => {
             <p><small><b> Director: </b> {director} </small></p>
             <p><small><b> IMBD Rating: </b> {IMBDRating} </small></p>
             <p><small><b> Release Date: </b> {releaseDate} </small></p>
-            <p> <small> <b> Box Office: </b> {boxOffice} </small> </p>
+            <p> <small> <b> Box Office: </b> $ {boxOffice} </small> </p>
 
            
         

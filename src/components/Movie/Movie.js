@@ -35,7 +35,7 @@ const Movie = () => {
                 </div>
                 <div className = "cart-container" >
                     <h4>Movies Item:{cart.length}</h4>
-                    <h4>Total movies budget: {total}</h4>
+                    <h4>Total movies budget:$ {total}</h4>
                     {
                         cart.map(movie => <p>{movie.name}</p>)
                     }
